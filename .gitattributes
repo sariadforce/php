@@ -2,3 +2,4 @@
 /*/**/apache2-foreground  linguist-generated
 /*/**/docker-php-*        linguist-generated
 /Dockerfile*.template     linguist-language=Dockerfile
+/Dockerfile*.template     linguist-language=Dockerfile
